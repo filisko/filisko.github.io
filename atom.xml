@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Filis&#39; blog</title>
+  
+  <subtitle>Tutorials focusing on Linux, programming, and open-source</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://filisko.github.io/"/>
+  <updated>2018-12-05T17:40:07.167Z</updated>
+  <id>https://filisko.github.io/</id>
+  
+  <author>
+    <name>Filis Futsarov</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My title</title>
+    <link href="https://filisko.github.io/2018/12/05/first/"/>
+    <id>https://filisko.github.io/2018/12/05/first/</id>
+    <published>2018-12-05T13:17:15.000Z</published>
+    <updated>2018-12-05T17:40:07.167Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Content ….&lt;/p&gt;&lt;p&gt;&lt;strong&gt;test&lt;/strong&gt;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="test" scheme="https://filisko.github.io/tags/test/"/>
+    
+      <category term="XMPP" scheme="https://filisko.github.io/tags/XMPP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World2</title>
+    <link href="https://filisko.github.io/2018/12/05/hello-world/"/>
+    <id>https://filisko.github.io/2018/12/05/hello-world/</id>
+    <published>2018-12-05T11:55:00.000Z</published>
+    <updated>2018-12-06T13:09:26.977Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="servers" scheme="https://filisko.github.io/categories/servers/"/>
+    
+    
+      <category term="XMPP" scheme="https://filisko.github.io/tags/XMPP/"/>
+    
+  </entry>
+  
+</feed>
