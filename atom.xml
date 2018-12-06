@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://filisko.github.io/"/>
-  <updated>2018-12-05T17:40:07.167Z</updated>
+  <updated>2018-12-06T18:16:45.419Z</updated>
   <id>https://filisko.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>prueba</title>
+    <link href="https://filisko.github.io/2018/12/06/prueba/"/>
+    <id>https://filisko.github.io/2018/12/06/prueba/</id>
+    <published>2018-12-06T18:04:08.000Z</published>
+    <updated>2018-12-06T18:16:45.419Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;img src=&quot;/2018/12/06/prueba/image.jpg&quot; width=&quot;122&quot; title=&quot;Nagios
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>My title</title>
@@ -36,9 +58,9 @@
     </summary>
     
     
-      <category term="test" scheme="https://filisko.github.io/tags/test/"/>
-    
       <category term="XMPP" scheme="https://filisko.github.io/tags/XMPP/"/>
+    
+      <category term="test" scheme="https://filisko.github.io/tags/test/"/>
     
   </entry>
   
@@ -47,7 +69,7 @@
     <link href="https://filisko.github.io/2018/12/05/hello-world/"/>
     <id>https://filisko.github.io/2018/12/05/hello-world/</id>
     <published>2018-12-05T11:55:00.000Z</published>
-    <updated>2018-12-06T16:27:00.180Z</updated>
+    <updated>2018-12-06T18:07:30.280Z</updated>
     
     <summary type="html">
     
