@@ -56,9 +56,9 @@
       <category term="servers" scheme="https://filisko.github.io/categories/servers/"/>
     
     
-      <category term="XMPP" scheme="https://filisko.github.io/tags/XMPP/"/>
-    
       <category term="test" scheme="https://filisko.github.io/tags/test/"/>
+    
+      <category term="XMPP" scheme="https://filisko.github.io/tags/XMPP/"/>
     
   </entry>
   
