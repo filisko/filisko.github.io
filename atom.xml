@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Filis&#39; blog</title>
+  <title>Filis&#39; Blog</title>
   
   <subtitle>Tutorials focusing on Linux, programming, and open-source</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -29,7 +29,9 @@
       
         
         
-          &lt;img src=&quot;/2018/12/06/prueba/image.jpg&quot; width=&quot;122&quot; title=&quot;Nagios
+          &lt;img src=&quot;/2018/12/06/prueba/image.jpg&quot; width=&quot;122&quot; title=&quot;Nagios Map&quot;&gt;&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+        
         
       
     
@@ -43,37 +45,11 @@
     <link href="https://filisko.github.io/2018/12/05/first/"/>
     <id>https://filisko.github.io/2018/12/05/first/</id>
     <published>2018-12-05T13:17:15.000Z</published>
-    <updated>2018-12-05T17:40:07.167Z</updated>
+    <updated>2018-12-07T12:08:25.095Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Content ….&lt;/p&gt;&lt;p&gt;&lt;strong&gt;test&lt;/strong&gt;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="XMPP" scheme="https://filisko.github.io/tags/XMPP/"/>
-    
-      <category term="test" scheme="https://filisko.github.io/tags/test/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World2</title>
-    <link href="https://filisko.github.io/2018/12/05/hello-world/"/>
-    <id>https://filisko.github.io/2018/12/05/hello-world/</id>
-    <published>2018-12-05T11:55:00.000Z</published>
-    <updated>2018-12-06T18:07:30.280Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+      &lt;p&gt;Content ….&lt;/p&gt;
     
     </summary>
     
@@ -81,6 +57,8 @@
     
     
       <category term="XMPP" scheme="https://filisko.github.io/tags/XMPP/"/>
+    
+      <category term="test" scheme="https://filisko.github.io/tags/test/"/>
     
   </entry>
   
