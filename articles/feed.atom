@@ -1,42 +1,25 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Filis&#039; blog</title>
-    <link href="" />
-    <link type="application/atom+xml" rel="self" href="/articles/feed.atom" />
-    <updated>2021-09-17T16:28:06+00:00</updated>
-    <id>/articles/feed.atom</id>
+    <link href="https://my-jigsaw-blog.com" />
+    <link type="application/atom+xml" rel="self" href="https://my-jigsaw-blog.com/articles/feed.atom" />
+    <updated>2021-09-17T19:21:08+00:00</updated>
+    <id>https://my-jigsaw-blog.com/articles/feed.atom</id>
     <author>
         <name>Filis Futsarov</name>
     </author>
                 <entry>
-    <id>/articles/why-and-how-simple-code</id>
-    <link type="text/html" rel="alternate" href="/articles/why-and-how-simple-code" />
-    <title>Why and how to make our code simpler</title>
+    <id>https://my-jigsaw-blog.com/articles/why-and-how-simple-code</id>
+    <link type="text/html" rel="alternate" href="https://my-jigsaw-blog.com/articles/why-and-how-simple-code" />
+    <title>Simplicity in code</title>
     <published>2019-10-25T00:00:00+00:00</published>
     <updated>2019-10-25T00:00:00+00:00</updated>
     <author>
         <name>Filis Futsarov</name>
     </author>
-    <summary type="html">To start with and add a bit of context, I think we can all say that there is a reasonable amount of articles that show us different techniques to improve our code and make it simpler, right?
-
-But how many of those articles tell us why should we write......</summary>
+    <summary type="html">test...</summary>
     <content type="html"><![CDATA[
-        <p>To start with and add a bit of context, I think we can all say that there is a reasonable amount of articles that show us <strong>different techniques</strong> to improve our code and make it simpler, right?</p>
-
-<p>But how many of those articles tell us why should we write simpler code? What should drives us toward writing simpler code? What are the benefits of doing it? Is there anything better than simpler code that we should focus on to improve our software design?</p>
-
-<p>To be good programmers, we should understand why do we do some things and avoid being "mentally mechanical", because it's easy to read a blog post and apply some of the  code techniques but is that all we can do to make our code simpler? What's the ultimate goal of simple code?</p>
-
-<pre><code class="language-php">echo "test";
-</code></pre>
-
-<p>https://www.youtube.com/watch?v=rI8tNMsozo0&amp;t=1161s</p>
-
-<!-- but that won't make us better in the long term because some of those techniques are static and anybody can apply them, what should we strive for is for our own methodologies, we should be able to discover new ways by improving software design. -->
-
-<!-- it's very simple, but we can not say that for example, because of our culture we inherit some behaviours that we are not very aware of. -->
-
-<!-- clarity is open for interpretation, i know when i see it, develop an eye for clarity  -->
+        <p>test</p>
     ]]></content>
 </entry>
     </feed>
