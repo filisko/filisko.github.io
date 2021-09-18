@@ -3,23 +3,38 @@
     <title>Filis&#039; blog</title>
     <link href="https://filisko.github.io" />
     <link type="application/atom+xml" rel="self" href="https://filisko.github.io/articles/feed.atom" />
-    <updated>2021-09-17T19:27:21+00:00</updated>
+    <updated>2021-09-18T11:41:18+00:00</updated>
     <id>https://filisko.github.io/articles/feed.atom</id>
     <author>
         <name>Filis Futsarov</name>
     </author>
                 <entry>
-    <id>https://filisko.github.io/articles/why-and-how-simple-code</id>
-    <link type="text/html" rel="alternate" href="https://filisko.github.io/articles/why-and-how-simple-code" />
-    <title>Simplicity in code</title>
+    <id>https://filisko.github.io/articles/simplicity-in-code</id>
+    <link type="text/html" rel="alternate" href="https://filisko.github.io/articles/simplicity-in-code" />
+    <title>Simplicity in Code</title>
     <published>2019-10-25T00:00:00+00:00</published>
     <updated>2019-10-25T00:00:00+00:00</updated>
     <author>
         <name>Filis Futsarov</name>
     </author>
-    <summary type="html">test...</summary>
+    <summary type="html">Simplicity? Oh yeah. That thing. Overloaded term? Nah, just a little bit....</summary>
     <content type="html"><![CDATA[
-        <p>test</p>
+        <p>Simplicity? Oh yeah, that thing. Overloaded term? Nah, just a bit.</p>
+
+<hr />
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce condimentum risus sit amet porta pretium. Phasellus tincidunt tortor rutrum tortor fringilla dignissim. Phasellus iaculis nibh et eleifend finibus. Aliquam in magna non metus pulvinar tempor ut id eros. Nulla dapibus dolor sed purus pharetra, eget egestas nunc pulvinar. Cras maximus dolor ac libero luctus, a tincidunt odio tincidunt. Aliquam sit amet suscipit nunc. Ut vel mollis ante. Praesent efficitur diam ac porttitor ullamcorper.</p>
+
+<p>Mauris vel ante vitae sem lacinia tincidunt sed a velit. Sed ultricies varius turpis. Praesent sit amet neque eget est ultricies semper. Curabitur pretium sem nec est tempus aliquam. Aenean laoreet sapien ac felis consectetur euismod. Maecenas luctus varius faucibus. Fusce semper pellentesque pretium. Donec nec neque eget nulla sodales vehicula in mattis nunc. Donec et augue eu mauris cursus malesuada. Sed imperdiet magna massa, ut interdum leo pretium sed. Etiam venenatis purus at libero sagittis tincidunt.</p>
+
+<p>Cras porta, sem placerat commodo egestas, nibh elit maximus neque, vitae ornare sapien ipsum eu velit. In lectus erat, efficitur quis mollis ac, pharetra non dui. Phasellus ultricies leo ac nibh lobortis lacinia. Aliquam eget lacus tincidunt lorem iaculis tempus non id mauris. Mauris nec enim eu augue tincidunt vehicula. Nullam pharetra libero dolor. Suspendisse potenti. Duis et mollis orci, eu semper orci. Sed consectetur lorem leo.</p>
+
+<p>Praesent facilisis nunc dolor, ut dapibus tortor euismod at. Ut sit amet nisl vehicula sapien ornare rutrum vitae a erat. Sed eu faucibus neque. In sit amet condimentum nulla. Nam interdum est sit amet lacus accumsan, quis sollicitudin elit dictum. Cras rhoncus elit sit amet purus cursus pharetra. Donec non egestas eros, vitae imperdiet arcu. Integer vehicula bibendum convallis. Etiam pellentesque nulla eget maximus varius. Nam id efficitur nulla. Proin non erat sit amet enim dignissim placerat. Phasellus elementum, leo eget suscipit vulputate, mi mi viverra lectus, non tempor ex purus et lectus. Pellentesque commodo sagittis mi, ac posuere nisi.</p>
+
+<p>Donec est elit, sagittis et vehicula id, molestie vitae urna. Praesent auctor imperdiet elit, nec pharetra turpis aliquet et. Aenean accumsan vehicula velit vitae rhoncus. Aliquam aliquet condimentum quam, id luctus est cursus ut. Cras a lectus mollis, hendrerit ligula quis, imperdiet nibh. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam in convallis felis, ac porta augue. Pellentesque at mauris erat. Nulla cursus augue eget lorem volutpat molestie. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+
+<pre><code class="language-php">echo "test";
+</code></pre>
     ]]></content>
 </entry>
     </feed>
