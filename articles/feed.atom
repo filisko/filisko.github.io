@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Filis&#039; blog</title>
-    <link href="https://filisko.github.io" />
-    <link type="application/atom+xml" rel="self" href="https://filisko.github.io/articles/feed.atom" />
-    <updated>2021-09-18T12:53:49+00:00</updated>
-    <id>https://filisko.github.io/articles/feed.atom</id>
+    <link href="https://filis.me" />
+    <link type="application/atom+xml" rel="self" href="https://filis.me/articles/feed.atom" />
+    <updated>2021-09-18T12:54:26+00:00</updated>
+    <id>https://filis.me/articles/feed.atom</id>
     <author>
         <name>Filis Futsarov</name>
     </author>
                 <entry>
-    <id>https://filisko.github.io/articles/simplicity-in-code</id>
-    <link type="text/html" rel="alternate" href="https://filisko.github.io/articles/simplicity-in-code" />
+    <id>https://filis.me/articles/simplicity-in-code</id>
+    <link type="text/html" rel="alternate" href="https://filis.me/articles/simplicity-in-code" />
     <title>Simplicity in Code</title>
     <published>2019-10-25T00:00:00+00:00</published>
     <updated>2019-10-25T00:00:00+00:00</updated>
